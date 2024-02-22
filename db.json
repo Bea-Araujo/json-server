@@ -1,73 +1,9 @@
 {
-  "drivers": [
-    {
-      "id": "81SaHMe",
-      "name": "Driver 1",
-      "document": "99999999999",
-      "vehicleId": "J1SouPU"
-    },
-    {
-      "name": "Driver 1",
-      "document": "99999999999",
-      "vehicleId": "J1SouPU",
-      "id": "SJ20a3d"
-    },
-    {
-      "name": "Driver 1",
-      "document": "99999999999",
-      "vehicleId": "hNTjbBR",
-      "id": "Pe7hOjl"
-    },
-    {
-      "name": "Driver 1",
-      "document": "99999999999",
-      "vehicleId": "hNTjbBR",
-      "id": "5wlmAMM"
-    },
-    {
-      "name": "Driver 1",
-      "document": "99999999999",
-      "vehicleId": "hNTjbBR",
-      "id": "eSEAnpu"
-    },
-    {
-      "name": "Driver 1",
-      "document": "99999999999",
-      "vehicleId": "hNTjbBR",
-      "id": "lrSRou7"
-    },
-    {
-      "name": "Driver 1",
-      "document": "99999999999",
-      "vehicleId": "hNTjbBR",
-      "id": "jK-ScA5"
-    }
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
   ],
-  "vehicles": [
-    {
-      "carPlate": "placa 3",
-      "brand": "marca 3",
-      "id": "hNTjbBR"
-    },
-    {
-      "carPlate": "placa 3",
-      "brand": "marca 3",
-      "id": "dAihz59"
-    },
-    {
-      "carPlate": "placa 3",
-      "brand": "marca 3",
-      "id": "Ngg65gT"
-    },
-    {
-      "carPlate": "placa 1",
-      "brand": "marquinha topzera",
-      "id": "LU6jZDo"
-    },
-    {
-      "carPlate": "placa 1",
-      "brand": "marca 1",
-      "id": "J1SouPU"
-    }
-  ]
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
 }
